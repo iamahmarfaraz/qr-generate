@@ -1,4 +1,4 @@
-```markdown
+
 # Hiring Test for Full Stack Developer Intern (MERN / MERN with Next.js)
 
 **NOTE:** You can use React or Next.js for the frontend and Node.js (or PHP) for the backend. Incorporating caching (e.g., Redis) is a plus. Deploy your project on any platform of your choice. Please provide both the live application URL and a link to your GitHub repository (which must be publicly accessible).
